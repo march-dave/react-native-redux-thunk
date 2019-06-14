@@ -1,5 +1,5 @@
 {
-  "name": "redux-thunk",
+  "name": "thunk",
   "version": "0.0.1",
   "private": true,
   "scripts": {
